@@ -12,7 +12,6 @@ The best-performing model, **msarg_se trained with Strategy II (Hybrid Dataset T
 ## 🚀 Code Release
 The code and datasets will be **publicly available** upon the acceptance of our related research article. Stay tuned for updates.
 
-For any inquiries, please contact us at **liuweihong_cau@163.com**.
 
 ## 📜 Citation
 If you find this research useful, please cite our work (citation details will be provided upon publication).
